@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a13dba3c-a891-47c9-81b1-9cdeb9201a14" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="code_brush" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/design/DesignTwitter-355.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="147" column="9" lean-forward="true" selection-start-line="147" selection-start-column="9" selection-end-line="147" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leetcode/design/DesignTwitter-355.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="7a20e4ae-f201-46ff-a2e2-8e6e58ec0e32" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="544" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1q6pG4KAoWK1uvxvm2GPzWLemJT" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code_brush" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_brush" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_brush" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_brush" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_brush" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_brush" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/queue-stack" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\webmnt\go\src\code_brush\leetcode\heap" />
+      <recent name="C:\Users\webmnt\go\src\code_brush\basic-data-structure" />
+      <recent name="C:\Users\webmnt\go\src\code_brush\basic-data-structure\advanced-tree" />
+      <recent name="C:\Users\webmnt\go\src\code_brush\basic-data-structure\linked-list" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\webmnt\go\src\code_brush\leetcode\queue-stack" />
+      <recent name="C:\Users\webmnt\go\src\code_brush\leetcode\binary-serach-tree" />
+      <recent name="C:\Users\webmnt\go\src\code_brush\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestDailyTemperatures in code_brush/leetcode/queue-stack">
+    <configuration name="go build code_brush/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="code_brush" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/main.go" />
+      <package value="code_brush/cmd" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDailyTemperatures in code_brush/leetcode/queue-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="code_brush" />
+      <working_directory value="$PROJECT_DIR$/leetcode/queue-stack" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="code_brush/leetcode/queue-stack" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestDailyTemperatures$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertNode in code_brush/leetcode/binary-serach-tree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="code_brush" />
+      <working_directory value="$PROJECT_DIR$/leetcode/binary-serach-tree" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="code_brush/leetcode/binary-serach-tree" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInsertNode$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNextGreaterElement1 in code_brush/leetcode/queue-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="code_brush" />
+      <working_directory value="$PROJECT_DIR$/leetcode/queue-stack" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="code_brush/leetcode/queue-stack" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNextGreaterElement1$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNextGreaterElement2 in code_brush/leetcode/queue-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="code_brush" />
+      <working_directory value="$PROJECT_DIR$/leetcode/queue-stack" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="code_brush/leetcode/queue-stack" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNextGreaterElement2$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build code_brush/cmd" />
+      <item itemvalue="Go Test.TestInsertNode in code_brush/leetcode/binary-serach-tree" />
+      <item itemvalue="Go Test.TestNextGreaterElement1 in code_brush/leetcode/queue-stack" />
+      <item itemvalue="Go Test.TestNextGreaterElement2 in code_brush/leetcode/queue-stack" />
+      <item itemvalue="Go Test.TestDailyTemperatures in code_brush/leetcode/queue-stack" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestDailyTemperatures in code_brush/leetcode/queue-stack" />
+        <item itemvalue="Go Test.TestNextGreaterElement2 in code_brush/leetcode/queue-stack" />
+        <item itemvalue="Go Build.go build code_brush/cmd" />
+        <item itemvalue="Go Test.TestNextGreaterElement1 in code_brush/leetcode/queue-stack" />
+        <item itemvalue="Go Test.TestInsertNode in code_brush/leetcode/binary-serach-tree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/imooc_xiaojian/HBaseUtil" value="PREVIEW" />
+        <entry key="D:/spark-in-practice-scala-master" value="PREVIEW" />
+        <entry key="D:/慕课网-小简同学-431-基于Spark2.x开发企业级个性化推荐系统-388元/code/Chapter_9-master/chapter_9/ALS_Recall" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a13dba3c-a891-47c9-81b1-9cdeb9201a14" name="Default Changelist" comment="" />
+      <created>1616409795179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616409795179</updated>
+      <workItem from="1616409798468" duration="42209000" />
+      <workItem from="1616631594818" duration="44497000" />
+      <workItem from="1617072586220" duration="668000" />
+      <workItem from="1617075452426" duration="1199000" />
+      <workItem from="1617104611324" duration="14620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15295528" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33631194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://10203524:AKCp5ZmHP9cEUvKxv2sKwZzkAkbeRqntk7fJWcEb25F1fAf5acqEUsBZhqXMGkR5TSesA5zW1@artsz.zte.com.cn/artifactory/api/go/public-go-virtual</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="163" key="#Go_Modules_(vgo)" timestamp="1616410129179">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="163" key="#Go_Modules_(vgo)/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616410129179" />
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616499395908">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616499395908" />
+    <state x="559" y="148" key="#go_build_basic.go" timestamp="1616499383220">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="559" y="148" key="#go_build_basic.go/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616499383220" />
+    <state x="968" y="143" key="#go_build_compare.go" timestamp="1616499387754">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="968" y="143" key="#go_build_compare.go/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616499387754" />
+    <state width="717" height="466" key="DebuggerActiveHint" timestamp="1617194930831">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="717" height="466" key="DebuggerActiveHint/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617194930831" />
+    <state width="1637" height="186" key="GridCell.Tab.0.bottom" timestamp="1617263392609">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617007709125" />
+    <state width="1637" height="186" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617263392609" />
+    <state width="1637" height="186" key="GridCell.Tab.0.center" timestamp="1617263392609">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.center/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617007709124" />
+    <state width="1637" height="186" key="GridCell.Tab.0.center/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617263392609" />
+    <state width="1637" height="186" key="GridCell.Tab.0.left" timestamp="1617263392609">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.left/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617007709124" />
+    <state width="1637" height="186" key="GridCell.Tab.0.left/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617263392609" />
+    <state width="1637" height="186" key="GridCell.Tab.0.right" timestamp="1617263392609">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.right/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617007709124" />
+    <state width="1637" height="186" key="GridCell.Tab.0.right/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617263392609" />
+    <state width="1637" height="230" key="GridCell.Tab.1.bottom" timestamp="1617196424966">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.bottom/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617004540352" />
+    <state width="1637" height="230" key="GridCell.Tab.1.bottom/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617196424966" />
+    <state width="1637" height="230" key="GridCell.Tab.1.center" timestamp="1617196424966">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.center/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617004540352" />
+    <state width="1637" height="230" key="GridCell.Tab.1.center/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617196424966" />
+    <state width="1637" height="230" key="GridCell.Tab.1.left" timestamp="1617196424966">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.left/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617004540352" />
+    <state width="1637" height="230" key="GridCell.Tab.1.left/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617196424966" />
+    <state width="1637" height="230" key="GridCell.Tab.1.right" timestamp="1617196424966">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.right/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617004540352" />
+    <state width="1637" height="230" key="GridCell.Tab.1.right/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1617196424966" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1616410104938">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616410104938" />
+    <state width="427" height="508" key="XDebugger.FullValuePopup" timestamp="1616500802746">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="427" height="508" key="XDebugger.FullValuePopup/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616500802746" />
+    <state x="-75" y="-18" width="1368" height="659" maximized="true" key="dock-window-1" timestamp="1617002719064">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-75" y="-18" width="1368" height="659" maximized="true" key="dock-window-1/0.0.1680.1010/-1600.0.1600.860@-1600.0.1600.860" timestamp="1617002719064" />
+    <state x="214" y="115" key="new project wizard" timestamp="1616586612897">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="214" y="115" key="new project wizard/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616586612897" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1616672588809">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010/-1600.0.1600.860@0.0.1680.1010" timestamp="1616672588809" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/main.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/main.go</url>
+          <line>54</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/main.go</url>
+          <line>93</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="freqMaxHeap.Max()" language="go" />
+      </configuration>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="nums1Copy[i]" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leetcode/design/DesignTwitter-355.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="147" column="9" lean-forward="true" selection-start-line="147" selection-start-column="9" selection-end-line="147" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

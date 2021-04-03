@@ -1,0 +1,3 @@
+- 「单调栈」monotonic stack,解决了一类问题「Next Greater Number」
+- 「双栈」实现队列
+- 「队列」实现栈
