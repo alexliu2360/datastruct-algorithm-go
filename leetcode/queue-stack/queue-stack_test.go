@@ -55,3 +55,58 @@ func TestMaxSlidingWindow(t *testing.T) {
 	//1617350108 1617350119
 	//fmt.Println(time.Now().Unix())
 }
+
+func TestBracket(t *testing.T){
+	fmt.Println("1: ", isValid("([{}])"))
+	fmt.Println("2: ", isValid("([[{}]])"))
+	fmt.Println("3: ", isValid("([{{])"))
+	fmt.Println("4: ", isValid("([{}]]]])"))
+	fmt.Println("5: ", isValid("([[[[{}])"))
+	fmt.Println("6: ", isValid("["))
+	fmt.Println("7: ", isValid("]"))
+}
+
+func TestBracketisValidWithReplace(t *testing.T){
+	fmt.Println("1: ", isValidWithReplace("([{}])"))
+	fmt.Println("2: ", isValidWithReplace("([[{}]])"))
+	fmt.Println("3: ", isValidWithReplace("([{{])"))
+	fmt.Println("4: ", isValidWithReplace("([{}]]]])"))
+	fmt.Println("5: ", isValidWithReplace("([[[[{}])"))
+	fmt.Println("6: ", isValidWithReplace("["))
+	fmt.Println("7: ", isValidWithReplace("]"))
+}
+func TestBracketTwoChars(t *testing.T){
+	fmt.Println("1: ", isValidTwoChars("([{}])"))
+	fmt.Println("2: ", isValidTwoChars("([[{}]])"))
+	fmt.Println("3: ", isValidTwoChars("([{{])"))
+	fmt.Println("4: ", isValidTwoChars("([{}]]]])"))
+	fmt.Println("5: ", isValidTwoChars("([[[[{}])"))
+	fmt.Println("6: ", isValidTwoChars("["))
+	fmt.Println("7: ", isValidTwoChars("]"))
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
